@@ -52,7 +52,7 @@ Log-Analyzer-IDS/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Log-Analyzer-IDS.git
+git clone https://github.com/AkeFPU/Analyzing-Logs-Intrusion-detection-system-.git
 cd Log-Analyzer-IDS
 
 2️⃣ Install Dependencies
